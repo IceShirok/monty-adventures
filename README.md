@@ -29,6 +29,8 @@ This repository will be a web app-based RPG to practice software skills. Anyone 
 ### Getting started
 * https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 * https://www.digitalocean.com/community/tutorials/how-to-build-and-deploy-a-flask-application-using-docker-on-ubuntu-20-04
+* https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
+* https://nodejs.dev/learn/how-to-install-nodejs
 
 ### Frontend focus
 * https://tms-outsource.com/blog/posts/web-technologies/
